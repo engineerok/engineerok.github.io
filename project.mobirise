@@ -84,11 +84,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Engineering Consultants - EngineerOK",
+        "meta_descr": "EngineerOK is an engineering company that provides mechanical design of exceptional products for medical, automotive, consumer electronics companies and startups.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/depositphotos-18386997-l-1481x987.jpg"
       },
       "components": [
         {
