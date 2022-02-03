@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "insightamp",
       "title": "InsightAMP",
@@ -2203,7 +2203,7 @@
         }
       ]
     },
-    "page3.html": {
+    "aboutus.html": {
       "settings": {
         "title": "Engineering Consultants - EngineerOK About Us",
         "order": 2,
