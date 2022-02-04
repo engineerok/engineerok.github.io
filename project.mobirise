@@ -1588,7 +1588,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#48d1cc",
-              "padding-left": "80px",
+              "padding-left": "100px",
               "padding-right": "80px",
               "@media (max-width: 767px)": {
                 "padding": "10px"
@@ -1696,7 +1696,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#48d1cc",
-              "padding-left": "80px",
+              "padding-left": "100px",
               "padding-right": "80px",
               "@media (max-width: 767px)": {
                 "padding": "10px"
@@ -1808,7 +1808,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#48d1cc",
-              "padding-left": "80px",
+              "padding-left": "100px",
               "padding-right": "80px",
               "@media (max-width: 767px)": {
                 "padding": "10px"
@@ -1920,7 +1920,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#48d1cc",
-              "padding-left": "80px",
+              "padding-left": "100px",
               "padding-right": "80px",
               "@media (max-width: 767px)": {
                 "padding": "10px"
@@ -2032,7 +2032,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#48d1cc",
-              "padding-left": "80px",
+              "padding-left": "100px",
               "padding-right": "80px",
               "@media (max-width: 767px)": {
                 "padding": "10px"
