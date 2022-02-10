@@ -2772,6 +2772,11 @@
               ".mbr-col-lg-5": {
                 "border-top": "0px solid black",
                 "padding-top": "0rem"
+              },
+              "a": {
+                "&:before": {
+                  "height": "0px"
+                }
               }
             },
             "H2": {
