@@ -2775,7 +2775,8 @@
               },
               "a": {
                 "&:before": {
-                  "height": "0px"
+                  "height": "0px",
+                  "text-deocration": "none"
                 }
               }
             },
