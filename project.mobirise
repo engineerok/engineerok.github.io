@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "insightamp",
       "title": "InsightAMP",
@@ -836,6 +836,9 @@
               ".mbr-col-lg-5": {
                 "border-top": "0px solid black",
                 "padding-top": "0rem"
+              },
+              "a": {
+                "background-color": "red"
               }
             },
             "H2": {
@@ -2566,33 +2569,6 @@
           "_anchor": "article07-1k",
           "_isUserblock": true,
           "_cid": "sWppbzMlf5",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "content6",
-          "_sourceTheme": "eventamp",
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "padding-left": "80px",
-            "padding-right": "80px",
-            "@media (max-width: 767px)": {
-              "padding": "10px"
-            },
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "color": "#18375c"
-            }
-          },
-          "_customHTML": "<section class=\"content6 mbr-section\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\">\n\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\"><b>Engineerok </b>offers turnkey solutions for regulated industries, such as medical and automotive where the requirements on reliability, stability, performance and system integration know-how are extremely high.<br>From <b>development and design to manufacturing</b> - we can do it all. We make the future work for you today, everyday.<br><br><b>Engineerok</b> is a team of specialists managed by CEO Dmitry Skokov, a Professional Engineer, member of PEO<br>(Professional Engineers of Ontario).&nbsp;<br></p>\n            </div>\n            <div class=\"mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\">\n\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\">Having graduated from the <b>Technion</b>, Dmitry has over 10 years of experience working for various R&amp;D companies in regulated industries. <br><br>His diverse portfolio includes <b>research, development, design</b> and <b>consulting</b> in automotive and medical industries.<br><br><br><b>Engineerok</b> offers a vast range of engineering services, such as <b>consulting, design, development and research,</b> applying our extensive knowledge and expertise for your benefit.</p>\n            </div>\n            <div class=\"mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\">\n\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\">Having identified the individual needs of each client, our specialists develop the best solution and step by step introduce the new product maintaining strict quality and safety standards. We are aware of high social responsibility so we always make sure that our projects are relevant in the era of transition to the eco-economy.<br><br><b>Engineerok</b> instantly responds to rapidly changing conditions in the professional environment, developing non-standard flexible solutions - <b>optimal in terms of price and quality</b>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_anchor": "content6-2g",
-          "_isUserblock": true,
-          "_cid": "sWZGV3hzWb",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
